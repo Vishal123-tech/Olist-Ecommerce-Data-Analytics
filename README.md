@@ -363,12 +363,9 @@ This project demonstrates practical experience in:
 
 # 🚀 How to Use This Project
 
-<<<<<<< HEAD
-=======
 ### 1. Download the dataset
 
 Download the **Brazilian E-Commerce Public Dataset by Olist** from [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce), extract the CSV files, and place them in the `Dataset/` folder. Update file paths in the notebooks and SQL scripts as needed.
->>>>>>> b77f2b7e1c30e9bcb3e56ca2f3d425886d7f73f4
 
 ### 2. Open the Python notebook
 
@@ -434,9 +431,3 @@ This project was developed as part of my Data Analytics learning and portfolio d
 ---
 
 ⭐ If you find this project useful, feel free to explore the repository and connect with me.
-<<<<<<< HEAD
-#   O l i s t - E c o m m e r c e - D a t a - A n a l y t i c s 
- 
- 
-=======
->>>>>>> b77f2b7e1c30e9bcb3e56ca2f3d425886d7f73f4
