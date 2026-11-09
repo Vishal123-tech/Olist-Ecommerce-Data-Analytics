@@ -6,7 +6,7 @@ This project analyzes the **Brazilian E-Commerce Public Dataset by Olist** to un
 
 The project combines **Python, SQL, Excel, and Power BI** to perform end-to-end data analytics and create interactive business dashboards.
 
-The analysis also includes **AI & Machine Learning-based insights** such as revenue forecasting, order forecasting, customer segmentation, churn-risk identification, and Customer Lifetime Value (CLV) analysis.
+The analysis also covers **AI- and machine-learning-based insights** such as revenue forecasting, order forecasting, customer segmentation, churn-risk identification, and Customer Lifetime Value (CLV) analysis.
 
 ---
 
@@ -32,7 +32,7 @@ The major objectives of this project are:
 
 **Source:** Kaggle
 
-The dataset contains approximately **100K e-commerce orders** from the Brazilian marketplace Olist.
+The dataset contains approximately **100,000 e-commerce orders** from the Brazilian marketplace Olist.
 
 ### Dataset Period
 
@@ -194,7 +194,7 @@ This page focuses on predictive and advanced analytics.
 * Customer Lifetime Value
 * Customer Segmentation
 
-Forecasting was performed using historical order and revenue trends to estimate future business performance.
+Forecasting uses historical order and revenue trends to estimate future business performance.
 
 ---
 
@@ -363,6 +363,12 @@ This project demonstrates practical experience in:
 
 # 🚀 How to Use This Project
 
+<<<<<<< HEAD
+=======
+### 1. Download the dataset
+
+Download the **Brazilian E-Commerce Public Dataset by Olist** from [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce), extract the CSV files, and place them in the `Dataset/` folder. Update file paths in the notebooks and SQL scripts as needed.
+>>>>>>> b77f2b7e1c30e9bcb3e56ca2f3d425886d7f73f4
 
 ### 2. Open the Python notebook
 
@@ -373,11 +379,11 @@ Open the `.ipynb` file using:
 * Anaconda
 * VS Code
 
-### 3. Database Analysis
+### 3. Run the SQL analysis
 
 Import the required datasets into MySQL and execute the SQL queries provided in the SQL folder.
 
-### 4. Power BI Dashboard
+### 4. Explore the Power BI dashboard
 
 Open the `.pbix` file using Power BI Desktop.
 
@@ -387,7 +393,7 @@ Open the `.pbix` file using Power BI Desktop.
 
 ✅ End-to-end E-Commerce Data Analytics Project
 
-✅ 9 interconnected datasets
+✅ 9 related datasets
 
 ✅ Python-based data cleaning and analysis
 
@@ -428,6 +434,9 @@ This project was developed as part of my Data Analytics learning and portfolio d
 ---
 
 ⭐ If you find this project useful, feel free to explore the repository and connect with me.
+<<<<<<< HEAD
 #   O l i s t - E c o m m e r c e - D a t a - A n a l y t i c s 
  
  
+=======
+>>>>>>> b77f2b7e1c30e9bcb3e56ca2f3d425886d7f73f4
