@@ -363,11 +363,6 @@ This project demonstrates practical experience in:
 
 # 🚀 How to Use This Project
 
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/sridharan-m-data/Olist-Ecommerce-Data-Analytics.git
-```
 
 ### 2. Open the Python notebook
 
@@ -433,5 +428,6 @@ This project was developed as part of my Data Analytics learning and portfolio d
 ---
 
 ⭐ If you find this project useful, feel free to explore the repository and connect with me.
-#   O l i s t - E c o m m e r c e - D a t a - A n a l y t i c s  
+#   O l i s t - E c o m m e r c e - D a t a - A n a l y t i c s 
+ 
  
