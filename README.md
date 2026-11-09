@@ -127,9 +127,11 @@ Business Recommendations
 
 # 📈 Power BI Dashboard
 
-The Power BI report contains five major analytical pages.
+The Power BI report contains five major analytical pages. Screenshots of four pages are shown below; the AI & ML Insights page is described separately.
 
 ## 1️⃣ Business Overview
+
+![Business Overview Power BI dashboard](Screenshot/Business%20Overview.png)
 
 Provides a high-level view of overall business performance.
 
@@ -148,6 +150,8 @@ Provides a high-level view of overall business performance.
 
 ## 2️⃣ Customer & Products
 
+![Customer and Products Power BI dashboard](Screenshot/Customer%20%26%20Products.png)
+
 Analyzes customer purchasing behavior and product performance.
 
 ### Analysis Includes
@@ -164,6 +168,8 @@ Analyzes customer purchasing behavior and product performance.
 ---
 
 ## 3️⃣ Logistics & Regions
+
+![Logistics and Regions Power BI dashboard](Screenshot/Logistics%20%26%20Regions.png)
 
 Analyzes order delivery and geographical performance.
 
@@ -199,6 +205,8 @@ Forecasting uses historical order and revenue trends to estimate future business
 ---
 
 ## 5️⃣ Strategic Insights
+
+![Strategic Insights Power BI dashboard](Screenshot/Stragetic.png)
 
 Converts analytical findings into business-oriented recommendations.
 
@@ -297,37 +305,22 @@ These insights can help businesses improve **customer retention, operational eff
 
 ```text
 Olist-Ecommerce-Data-Analytics/
-│
+├── Code/
+├── Dashboard Screenshots/
+├── Dataset 2/
 ├── Dataset/
-│   ├── customers_dataset.csv
-│   ├── orders_dataset.csv
-│   ├── order_items_dataset.csv
-│   ├── order_payments_dataset.csv
-│   ├── order_reviews_dataset.csv
-│   ├── products_dataset.csv
-│   ├── sellers_dataset.csv
-│   ├── geolocation_dataset.csv
-│   └── product_category_name_translation.csv
-│
-├── Python/
-│   └── E-Commerce_Data_Analysis.ipynb
-│
-├── SQL/
-│   └── E-Commerce_SQL_Analysis.sql
-│
-├── Excel/
-│   └── E-Commerce_Analysis.xlsx
-│
-├── PowerBI/
-│   └── E-Commerce_Analytics.pbix
-│
-├── Documentation/
-│   └── Data_Dictionary.pdf
-│
+├── PPT/
+├── Power BI/
+├── SQL Script/
+├── Screenshot/
+│   ├── Business Overview.png
+│   ├── Customer & Products.png
+│   ├── Logistics & Regions.png
+│   └── Stragetic.png
 └── README.md
 ```
 
-> File names may vary depending on the final files uploaded to the repository.
+> Folder names and screenshot filenames above match the GitHub screenshots provided. `Stragetic.png` retains its current spelling so the image link works.
 
 ---
 
@@ -365,7 +358,7 @@ This project demonstrates practical experience in:
 
 ### 1. Download the dataset
 
-Download the **Brazilian E-Commerce Public Dataset by Olist** from [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce), extract the CSV files, and place them in the `Dataset/` folder. Update file paths in the notebooks and SQL scripts as needed.
+Download the **Brazilian E-Commerce Public Dataset by Olist** from [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce), extract the CSV files, and place them in the `Dataset/` folder if they are not already present. Update file paths in the notebooks and SQL scripts as needed.
 
 ### 2. Open the Python notebook
 
@@ -378,11 +371,11 @@ Open the `.ipynb` file using:
 
 ### 3. Run the SQL analysis
 
-Import the required datasets into MySQL and execute the SQL queries provided in the SQL folder.
+Import the required datasets into MySQL and execute the SQL queries provided in the `SQL Script/` folder.
 
 ### 4. Explore the Power BI dashboard
 
-Open the `.pbix` file using Power BI Desktop.
+Open the `.pbix` file in the `Power BI/` folder using Power BI Desktop.
 
 ---
 
